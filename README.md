@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋 , I'm Nikesh
+I'm a Graduate Student studying Information Systems at Northeastern University
+💬 Ask me about Web App Development, RESTful API, Identiy and Access Management
+
+📫 How to reach me biraggari.n@northeastern.edu
+
+📄 Know about my experiences https://www.linkedin.com/in/nikeshbiraggari/
+
+😄 My Porfolio - https://nikesh984.github.io/nikesh.github.io/Personal_Portfolio/Index.html
+
 
 <!--
 **Nikesh984/Nikesh984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
