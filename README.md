@@ -1,7 +1,7 @@
 ### Hi there 👋 , I'm Nikesh
 I'm a Graduate Student studying Information Systems at Northeastern University
 
--💬 Ask me about Web App Development, RESTful APIs, Identiy and Access Management, Cloud Computing
+-💬 Ask me about Web App Development, RESTful APIs, Identity and Access Management, Cloud Computing
 
 -📫 How to reach me biraggari.n@northeastern.edu
 
