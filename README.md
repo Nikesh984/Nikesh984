@@ -7,7 +7,7 @@ I'm a Graduate Student studying Information Systems at Northeastern University
 
 -📄 Know about my experiences https://www.linkedin.com/in/nikeshbiraggari/
 
--😄 My Porfolio - https://nikesh984.github.io/nikesh.github.io/Personal_Portfolio/Index.html
+-😄 My Porfolio - https://nikesh984.github.io/portfolio_repo/
 
 
 <!--
